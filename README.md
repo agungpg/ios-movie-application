@@ -51,8 +51,10 @@ To run this application locally, please follow these steps:
    ```shell
    git clone https://github.com/your-repo-link.git
 2. Install the required pods. Open a terminal window, navigate to the project's directory, and run:
+   
   ```shell
   pod install
+
 3. Open the Xcode workspace (MovieApp.xcworkspace).
 4. Build and run the application on the desired simulator or device.
 
